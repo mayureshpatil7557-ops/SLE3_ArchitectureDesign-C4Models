@@ -1,9 +1,4 @@
 SLE-3: Architecture Design of a Grid-Based Pathfinding System
-Course Information
-- Course: 02AML204 -- Introduction to Artificial Intelligence
-- Program: SY B.Tech. CSE (AI & ML)
-- Semester: VI
-- Activity: SLE-3 -- Architectural Design (Full C4 Model)
 Project Title
 Architecture Design of a Grid-Based Pathfinding System
 1. Project Overview
